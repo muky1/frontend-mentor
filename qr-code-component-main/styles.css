@@ -47,6 +47,9 @@ footer {
   font-weight: 700;
   text-shadow: 1px 3px 3px slategrey;
   color: hsl(218, 44%, 22%);
+}
+
+h2 {
   font-size: 22px;
 }
 
