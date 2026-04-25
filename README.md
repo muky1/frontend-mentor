@@ -1,2 +1,2 @@
 # frontend-mentor
-Frontent and full-stack challenges from frontendmentor.io
+Frontend and full-stack challenges from frontendmentor.io
