@@ -1,0 +1,58 @@
+.attribution {
+  font-size: 0.6875rem;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit";
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+footer {
+  display: relative;
+  margin-top: auto;
+}
+
+.qr-image {
+  max-height: 288px;
+  max-width: 288px;
+  border-radius: 10px;
+}
+
+.card {
+  max-height: 500px;
+  max-width: 320px;
+  background-color: white;
+  margin-inline: auto;
+  border-radius: 20px;
+  text-align: center;
+  margin-top: auto;
+}
+
+.wrapper {
+  padding: 16px;
+}
+
+.heading {
+  font-weight: 700;
+  text-shadow: 1px 1px 1px;
+  color: hsl(218, 44%, 22%);
+  font-size: 22px;
+}
+
+.description {
+  font-size: 15px;
+  color: hsl(216, 15%, 48%);
+  max-width: 256px;
+  margin-inline: auto;
+}
